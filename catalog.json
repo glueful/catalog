@@ -1,0 +1,78 @@
+{
+  "extensions": [
+    {
+      "name": "Admin",
+      "displayName": "Admin Dashboard",
+      "version": "0.18.0",
+      "publisher": "glueful-team",
+      "description": "Provides a comprehensive admin dashboard UI to visualize and manage the API Framework, monitor system health, and perform administrative actions through a user-friendly interface",
+      "repository": "https://github.com/glueful/extensions",
+      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/Admin-0.18.0.gluex",
+      "icon": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/Admin/assets/icon.png",
+      "readme": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/Admin/README.md",
+      "tags": ["admin", "dashboard", "management"],
+      "rating": 4.9,
+      "downloads": 1,
+      "lastUpdated": "2025-01-20T10:15:00Z"
+    },
+    {
+      "name": "BeanstalkdQueue",
+      "displayName": "Beanstalkd Queue Driver",
+      "version": "1.0.0",
+      "publisher": "glueful-team",
+      "description": "Beanstalkd queue driver for high-performance job processing with tube management and priority scheduling",
+      "repository": "https://github.com/glueful/extensions",
+      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/BeanstalkdQueue-1.0.0.gluex",
+      "readme": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/BeanstalkdQueue/README.md",
+      "tags": ["queue", "beanstalkd", "jobs"],
+      "rating": 4.7,
+      "downloads": 1,
+      "lastUpdated": "2025-01-18T14:30:00Z"
+    },
+    {
+      "name": "EmailNotification",
+      "displayName": "Email Notification",
+      "version": "0.21.0",
+      "publisher": "glueful-team",
+      "description": "Provides email notification capabilities using SMTP/PHPMailer",
+      "repository": "https://github.com/glueful/extensions",
+      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/EmailNotification-0.21.0.gluex",
+      "icon": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/EmailNotification/assets/icon.png",
+      "readme": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/EmailNotification/README.md",
+      "tags": ["notifications", "communication", "email"],
+      "rating": 4.8,
+      "downloads": 1,
+      "lastUpdated": "2025-01-19T08:45:00Z"
+    },
+    {
+      "name": "RBAC",
+      "displayName": "Role-Based Access Control",
+      "version": "0.27.0",
+      "publisher": "glueful-team",
+      "description": "Modern, flexible role-based access control system with hierarchical roles, permissions, and audit trails",
+      "repository": "https://github.com/glueful/extensions",
+      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/RBAC-0.27.0.gluex",
+      "icon": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/RBAC/assets/icon.png",
+      "readme": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/RBAC/README.md",
+      "tags": ["authentication", "authorization", "security"],
+      "rating": 4.9,
+      "downloads": 1,
+      "lastUpdated": "2025-01-21T11:00:00Z"
+    },
+    {
+      "name": "SocialLogin",
+      "displayName": "Social Login",
+      "version": "0.18.0",
+      "publisher": "glueful-team",
+      "description": "Provides social authentication through Google, Facebook and GitHub",
+      "repository": "https://github.com/glueful/extensions",
+      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/SocialLogin-0.18.0.gluex",
+      "icon": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/SocialLogin/assets/icon.png",
+      "readme": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/SocialLogin/README.md",
+      "tags": ["authentication", "social-integration", "oauth"],
+      "rating": 4.6,
+      "downloads": 1,
+      "lastUpdated": "2025-01-17T16:20:00Z"
+    }
+  ]
+}
