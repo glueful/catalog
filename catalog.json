@@ -1,13 +1,13 @@
 {
   "extensions": [
-    {
+    { 
       "name": "Admin",
       "displayName": "Admin Dashboard",
-      "version": "0.18.0",
+      "version": "0.19.0",
       "publisher": "glueful-team",
       "description": "Provides a comprehensive admin dashboard UI to visualize and manage the API Framework, monitor system health, and perform administrative actions through a user-friendly interface",
       "repository": "https://github.com/glueful/extensions/tree/main/extensions/Admin",
-      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/Admin-0.18.0.gluex",
+      "downloadUrl": "https://github.com/glueful/extensions/raw/main/build/Admin-0.19.0.gluex",
       "icon": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/Admin/assets/icon.png",
       "readme": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/Admin/README.md",
       "changelog": "https://raw.githubusercontent.com/glueful/extensions/main/extensions/Admin/CHANGELOG.md",
